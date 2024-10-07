@@ -1,5 +1,7 @@
 # Changelog
 
+## [v1.77.0](https://github.com/suzuki/tbls/compare/v1.40.0...v1.77.0) - 2024-10-07
+
 ## [v1.77.0](https://github.com/k1LoW/tbls/compare/v1.76.1...v1.77.0) - 2024-07-24
 ### Breaking Changes 🛠
 - Refactor when expression handling by @mjpieters in https://github.com/k1LoW/tbls/pull/600
