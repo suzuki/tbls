@@ -1,5 +1,7 @@
 # Changelog
 
+## [v1.81.0](https://github.com/suzuki/tbls/compare/v1.40.0...v1.81.0) - 2025-02-27
+
 ## [v1.81.0](https://github.com/k1LoW/tbls/compare/v1.80.0...v1.81.0) - 2025-01-26
 ### Breaking Changes 🛠
 - Fix schema.json for generating JSON Schema of schema.json by @k1LoW in https://github.com/k1LoW/tbls/pull/646
